@@ -3,9 +3,9 @@
 #
 
 # define a basic function
-def func1(r):
-    print("I am a function" + r)
-    return "WINGDING!"
+def func1():
+    print("I am a function")
+    
 
 # function that takes arguments
 
@@ -17,10 +17,3 @@ def func1(r):
 
 
 #function with variable number of arguments
-
-
-#func1(" BLOOP!")
-r = " GLURP!"
-z = " ZURP!"
-
-func1(z)
