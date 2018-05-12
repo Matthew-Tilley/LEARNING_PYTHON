@@ -3,18 +3,18 @@
 #
 
 # define a basic function
-def func1():
-    print("I am a function")
+##def func1():
+##    print("I am a function")
     
     
 
 # function that takes arguments
-def func2(arg1, arg2):
-    print(arg1, " ", arg2)
+##def func2(arg1, arg2):
+##    print(arg1, " ", arg2)
 
 # function that returns a value
-def cube(x):
-    return x*x*x
+##def cube(x):
+##    return x*x*x
 
 # function with default value for an argument
 def power(num, x=1):
@@ -24,7 +24,8 @@ def power(num, x=1):
         
     return result
 
-power(3)
+#power(3)
+print(power(3))
 
 
     
