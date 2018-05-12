@@ -2,19 +2,27 @@
 # Example file for working with conditional statements
 #
 
-def main():
-  x, y = 10, 100
+##def main():
+##  x, y = 10, 100
   
   # conditional flow uses if, elif, else
 
-x = -9
 
-if x > 0:
-    print("YEP.")
+##def main():
+##    x, y = 10, 100
+  
+x, y = 1000, 100
+
+if x < y:
+    print(x)
     
 else:
-    print("NOPE.")
+    print(y)
     
+
+    
+
+ 
 
 
     
@@ -38,6 +46,6 @@ else:
   # Python does not have support for higher-order conditionals
   # like "switch-case" in other languages
   
-if __name__ == "__main__":
-  main()
+##if __name__ == "__main__":
+##  main()
 
