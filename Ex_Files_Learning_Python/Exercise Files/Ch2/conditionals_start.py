@@ -8,16 +8,14 @@
   # conditional flow uses if, elif, else
 
 
-##def main():
-##    x, y = 10, 100
-  
-x, y = 1000, 100
+x, y = 100, 100
 
-if x < y:
-    print(x)
-    
+if x<=y:
+    print("YEP.")
+
 else:
-    print(y)
+    print("NOPE.")
+
     
 
     
@@ -47,5 +45,5 @@ else:
   # like "switch-case" in other languages
   
 ##if __name__ == "__main__":
-##  main()
+##    main()
 
