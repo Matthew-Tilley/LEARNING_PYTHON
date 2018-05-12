@@ -28,10 +28,23 @@
 ##print(power(3))
 
 
-    
-
-
 #function with variable number of arguments
+
+def multi_add(*args):
+    result = 0
+    for x in args:
+        result = result + x
+    
+    return result
+
+
+
+
+
+
+
+
+
 
 #func2(10,20)
 #print(func2(20,30))
