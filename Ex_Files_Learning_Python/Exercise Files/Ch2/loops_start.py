@@ -29,7 +29,9 @@ def main():
 ##    if (x%2==0): continue
 ##    print(x)
 
-  #using the enumerate() function to get index 
+  #using the enumerate() function to get index
+
+days = ["MON", "TUE", "WED", "THURS", "FRI", "SAT", "SUN"]
 
 
 if __name__ == "__main__":
