@@ -33,6 +33,9 @@ def main():
 
 days = ["MON", "TUE", "WED", "THURS", "FRI", "SAT", "SUN"]
 
+for i in days:
+    print(i)
+
 
 if __name__ == "__main__":
   main()
