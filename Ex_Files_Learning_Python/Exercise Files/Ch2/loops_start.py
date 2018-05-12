@@ -33,8 +33,8 @@ def main():
 
 days = ["MON", "TUE", "WED", "THURS", "FRI", "SAT", "SUN"]
 
-for i in days:
-    print(i)
+for i,d in enumerate(days):
+    print(i,d)
 
 
 if __name__ == "__main__":
