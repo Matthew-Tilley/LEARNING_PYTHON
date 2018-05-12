@@ -9,7 +9,10 @@ def main():
   
   if (x < y):
     st = "X is less than Y"
-  print(st)  
+  print(st)
+  else:
+    st = "X is greater than Y"
+    
 
       
 
