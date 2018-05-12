@@ -17,6 +17,15 @@ def cube(x):
     return x*x*x
 
 # function with default value for an argument
+def power(num, x=1):
+    result = 1
+    for i in range(x):
+        result = result * num
+        
+    return result
+
+
+    
 
 
 #function with variable number of arguments
