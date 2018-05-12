@@ -17,15 +17,15 @@
 ##    return x*x*x
 
 # function with default value for an argument
-def power(num, x=1):
-    result = 1
-    for i in range(x):
-        result = result * num
-        
-    return result
+##def power(num, x=1):
+##    result = 1
+##    for i in range(x):
+##        result = result * num
+##        
+##    return result
 
 #power(3)
-print(power(3))
+##print(power(3))
 
 
     
