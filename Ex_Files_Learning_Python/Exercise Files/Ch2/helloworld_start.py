@@ -1,5 +1,6 @@
-a = 5
+def main():
+    print("Whaszzup world?")
 
-b = 6
 
-print(a*b)
+if __name__ == "__main__":
+    main()
