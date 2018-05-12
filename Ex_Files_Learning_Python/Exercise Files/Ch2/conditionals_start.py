@@ -18,16 +18,7 @@ elif x==y:
 
 else:
     print("NOPE.")
-
-    
-
-    
-
- 
-
-
-    
-    
+     
       
 
   
