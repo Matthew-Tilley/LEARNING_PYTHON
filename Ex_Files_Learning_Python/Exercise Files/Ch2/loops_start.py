@@ -18,13 +18,17 @@ def main():
 
   # use a for loop over a collection
 
-days = ["MON", "TUE", "WED", "THURS", "FRI", "SAT", "SUN"]
-
-for i in days:
-    print(i)
+##days = ["MON", "TUE", "WED", "THURS", "FRI", "SAT", "SUN"]
+##
+##for i in days:
+##    print(i)
  
   # use the break and continue statements
 
+for i in range(5,10):
+    if i==7:
+        break
+    print(i)
 
   #using the enumerate() function to get index 
 
