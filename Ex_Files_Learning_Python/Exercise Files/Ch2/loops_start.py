@@ -21,7 +21,7 @@ def main():
 days = ["MON", "TUE", "WED", "THURS", "FRI", "SAT", "SUN"]
 
 for i in days:
-    print(i + str([i]))
+    print(i)
  
   # use the break and continue statements
 
