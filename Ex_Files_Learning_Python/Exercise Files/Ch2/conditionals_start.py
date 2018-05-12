@@ -5,7 +5,14 @@
 def main():
   x, y = 10, 100
   
-  # conditional flow uses if, elif, else  
+  # conditional flow uses if, elif, else
+  
+  if (x < y):
+    st = "X is less than Y"
+  print(st)  
+
+      
+
 
   # conditional statements let you use "a if C else b"
   
