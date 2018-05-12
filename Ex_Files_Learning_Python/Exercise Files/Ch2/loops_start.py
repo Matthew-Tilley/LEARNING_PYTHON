@@ -26,8 +26,9 @@ def main():
   # use the break and continue statements
 
 for i in range(5,10):
-    if i==7:
-        break
+##    if i==7:
+##        break
+    
     print(i)
 
   #using the enumerate() function to get index 
