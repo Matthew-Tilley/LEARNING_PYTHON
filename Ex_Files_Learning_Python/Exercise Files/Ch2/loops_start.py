@@ -20,7 +20,8 @@ def main():
 
 days = ["MON", "TUE", "WED", "THURS", "FRI", "SAT", "SUN"]
 
-print(days)
+for i in days:
+    print(i)
  
   # use the break and continue statements
 
