@@ -9,7 +9,7 @@ def func1():
     
 
 # function that takes arguments
-def func2():
+def func2(arg1, arg2):
     print(arg1, " ", arg2)
 
 # function that returns a value
@@ -21,8 +21,11 @@ def cube(x):
 
 #function with variable number of arguments
 
+func2(10,20)
 
 
-func1()
-print(func1())
-print(func1)
+
+##func1()
+##print(func1())
+##print(func1)
+
