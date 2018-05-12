@@ -34,7 +34,7 @@ def main():
 days = ["MON", "TUE", "WED", "THURS", "FRI", "SAT", "SUN"]
 
 for i,d in enumerate(days):
-    print(i,d)
+    print(i)
 
 
 if __name__ == "__main__":
