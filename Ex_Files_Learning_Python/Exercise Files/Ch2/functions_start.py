@@ -9,10 +9,12 @@ def func1():
     
 
 # function that takes arguments
-
+def func2():
+    print(arg1, " ", arg2)
 
 # function that returns a value
-
+def cube(x):
+    return x*x*x
 
 # function with default value for an argument
 
