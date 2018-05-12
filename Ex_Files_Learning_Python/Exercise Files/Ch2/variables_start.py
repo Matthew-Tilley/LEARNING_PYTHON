@@ -23,4 +23,7 @@ def someFunction():
 someFunction()
 print(f)
 
+del(f)
+print(f)
+
  
