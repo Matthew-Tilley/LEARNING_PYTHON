@@ -34,7 +34,9 @@ def main():
 days = ["MON", "TUE", "WED", "THURS", "FRI", "SAT", "SUN"]
 
 for i,d in enumerate(days):
-    print(d)
+    print("The index is:", i, "and day is", d )
+    
+    
 
 
 if __name__ == "__main__":
