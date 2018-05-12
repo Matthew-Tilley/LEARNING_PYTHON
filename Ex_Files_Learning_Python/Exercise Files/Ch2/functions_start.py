@@ -24,6 +24,7 @@ def cube(x):
 #func2(10,20)
 #print(func2(20,30))
 cube(3)
+print(cube(3))
 
 
 
