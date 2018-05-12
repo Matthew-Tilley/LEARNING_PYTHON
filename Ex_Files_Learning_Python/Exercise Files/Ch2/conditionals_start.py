@@ -8,10 +8,13 @@
   # conditional flow uses if, elif, else
 
 
-x, y = 100, 100
+x, y = 1000, 100
 
-if x<=y:
+if x<y:
     print("YEP.")
+    
+elif x==y:
+    print("SAME-SAME.")
 
 else:
     print("NOPE.")
