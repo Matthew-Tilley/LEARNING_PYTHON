@@ -1,4 +1,1 @@
-#
-# Example file for HelloWorld
-#
-
+print("WHASSZUP")
