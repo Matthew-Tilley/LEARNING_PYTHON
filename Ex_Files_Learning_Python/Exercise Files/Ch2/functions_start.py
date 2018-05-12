@@ -38,6 +38,9 @@ def multi_add(*args):
     return result
 
 
+print(multi_add(10, 20))
+
+ 
 
 
 
