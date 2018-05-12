@@ -3,7 +3,8 @@
 #
 
 # define a basic function
-
+def func1(r):
+    print("I am a function" + r)
 
 # function that takes arguments
 
@@ -16,3 +17,5 @@
 
 #function with variable number of arguments
 
+
+func1(" BLOOP!")
