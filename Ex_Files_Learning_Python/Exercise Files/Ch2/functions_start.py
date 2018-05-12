@@ -21,7 +21,8 @@ def cube(x):
 
 #function with variable number of arguments
 
-func2(10,20)
+#func2(10,20)
+print(func2(20,30))
 
 
 
