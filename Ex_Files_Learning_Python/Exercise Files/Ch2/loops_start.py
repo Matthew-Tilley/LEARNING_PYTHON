@@ -17,7 +17,10 @@ def main():
 
 
   # use a for loop over a collection
-    
+
+days = ["MON", "TUE", "WED", "THURS", "FRI", "SAT", "SUN"]
+
+print(days)
  
   # use the break and continue statements
 
