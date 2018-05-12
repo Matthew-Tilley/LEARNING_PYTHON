@@ -24,6 +24,8 @@ def power(num, x=1):
         
     return result
 
+power(3)
+
 
     
 
